@@ -10,5 +10,12 @@ public void createContact() {
 @Test
 public void contactOrg() {
 	System.out.println("contact and org updated successfully");
+		
+	
 }
+@Test
+public void contact() {
+	System.out.println("contact updated");
+}
+
 }
