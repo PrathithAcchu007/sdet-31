@@ -7,7 +7,18 @@ public class CampaignwithProductTest {
 	public void campaignwithProdct() {
 		System.out.println("product created successfully");
 		
+
 		System.out.println("product updated");
+	    System.out.println("product updated");
+	   
 	}
+	
+	
+	
+	
+	
+	
+	
+	
 
 }
