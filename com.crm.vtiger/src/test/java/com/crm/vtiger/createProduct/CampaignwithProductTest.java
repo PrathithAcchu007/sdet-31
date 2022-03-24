@@ -10,6 +10,8 @@ public class CampaignwithProductTest {
 
 		System.out.println("product updated");
 	    System.out.println("product updated");
+	    
+	    System.out.println("campaign created successfully");
 	   
 	}
 	
