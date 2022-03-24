@@ -6,6 +6,8 @@ public class CampaignwithProductTest {
 	@Test
 	public void campaignwithProdct() {
 		System.out.println("product created successfully");
+		
+		System.out.println("product updated");
 	}
 
 }
