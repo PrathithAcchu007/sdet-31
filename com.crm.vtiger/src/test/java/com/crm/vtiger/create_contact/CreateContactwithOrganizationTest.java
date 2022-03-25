@@ -7,5 +7,7 @@ public class CreateContactwithOrganizationTest {
 public void createOrg() {
 	System.out.println("organization created successfully");
 
+	
+	System.out.println("contact with organization updated");
 }
 }
