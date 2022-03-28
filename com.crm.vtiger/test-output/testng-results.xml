@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
@@ -15,3 +16,22 @@
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23387" started-at="2022-03-24T10:08:17 IST" finished-at="2022-03-24T10:08:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23387" started-at="2022-03-24T10:08:17 IST" finished-at="2022-03-24T10:08:41 IST">
+      <class name="com.crm.vtiger.parameterLogin.LoginfromMavencmdTest">
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.crm.vtiger.parameterLogin.LoginfromMavencmdTest@51e2adc7]" name="loginPage" duration-ms="23285" started-at="2022-03-24T10:08:17 IST" finished-at="2022-03-24T10:08:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+      </class> <!-- com.crm.vtiger.parameterLogin.LoginfromMavencmdTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
+>>>>>>> branch 'master' of https://github.com/PrathithAcchu007/sdet-31.git
